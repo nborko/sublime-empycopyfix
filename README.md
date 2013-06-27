@@ -2,7 +2,9 @@ This is a Sublime Text (2) plugin to "fix" the Copy operation.  The default
 behavior of Copy in Sublime Text is to copy the contents of the current line
 if no text has been selected.  This plugin makes ST act like every other
 application in existence, by not altering the copy buffer if no text is
-selected.  The original behavior is assigned to the fallback hitkey, Crtl+Insert.
+selected.  The original behavior is assigned to the fallback hotkey, Crtl+Insert.
+
+This plugin is licensed under an MIT License http://opensource.org/licenses/MIT
 
 Copyright (c) 2012-2013 by Nicholas Borko
 
