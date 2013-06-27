@@ -1,0 +1,5 @@
+[  
+    {  
+        "keys": ["ctrl+c"], "command": "empty_copy_fix"  
+    }  
+]  
